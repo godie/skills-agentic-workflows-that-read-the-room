@@ -1,7 +1,7 @@
 ---
 name: update-github-info
 description: Keep Mona's GitHub Info content current with practical updates from official GitHub sources.
-model: auto
+model: gpt-4o
 on:
   schedule: daily
   workflow_dispatch:
